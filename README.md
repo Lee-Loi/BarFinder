@@ -2,6 +2,8 @@
 iOS Objective-C app that shows curated bars in your area - First iOS app I ever made! :)
 
 
+You can view demonstration of iOS App here: https://www.youtube.com/watch?v=ChHEXJNQDdM
+
 HOW TO USE:
 - Be sure to download and install CocoaPods as that’s how you install the Google Maps API and will be useful if you plan to tinker around with the app.
 
