@@ -10,7 +10,6 @@ HOW TO USE:
 - Be sure to make a Google API Key for Google Maps that matches the identifier your going to user. Input the key in the AppDelegate.m file otherwise map won’t work.
 
 
-————————————————————
 Have fun with the app guys. It’s nothing ground breaking but it was my first iOS app I ever built as my final project for CS50 which I took through extension school so have fun in good health.
 
 Documentation & Design PDF’s are just addendum’s which were submitted with the app to explain to my TF how the app functions. If you have two minutes to spare, it’s definitely worth a quick read.
