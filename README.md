@@ -16,4 +16,4 @@ Have fun with the app guys. It’s nothing ground breaking but it was my first i
 
 Documentation & Design PDF’s are just addendum’s which were submitted with the app to explain to my TF how the app functions. If you have two minutes to spare, it’s definitely worth a quick read.
 
-You can follow me on twitter @leeloichieng :) 
+You can follow me on twitter: http://www.twiter.com/leeloichieng :) 
